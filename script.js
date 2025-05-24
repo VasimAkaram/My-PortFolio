@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             preloader.style.display = 'none';
         }, 500);
     });
-
+    // good work
     // Mobile Navigation Toggle
     const hamburger = document.querySelector('.hamburger');
     const navList = document.querySelector('.nav-list');
